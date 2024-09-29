@@ -1,6 +1,6 @@
 # 이효준의 자기소개
 
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요%20이효준입니다&fontSize=50)
+![header](https://capsule-render.vercel.app/api?height=400&text=READ%20ME!&desc=INTRO)
 
 <img src="./images/me.jpg" width="370px" height="500px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
@@ -27,4 +27,8 @@
 
 ---
 
-> 안녕
+## Profile Stats
+
+![hyojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeginger&count_private=true)
+
+> 안녕하세요
