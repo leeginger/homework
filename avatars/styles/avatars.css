@@ -1,0 +1,65 @@
+body * {
+  margin: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+section ul {
+  padding: 0;
+}
+
+section ul li {
+  position: relative;
+}
+
+section ul li img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+
+section ul li span {
+  position: absolute;
+  right: 10px;
+  bottom: 14px;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  background-color: #dbdbdb;
+}
+
+section ul li span.avatar-on {
+  background: #4cfe88;
+}
+
+section {
+  width: 322px;
+}
+
+#section01 ul {
+  overflow: hidden;
+}
+
+#section01 ul li {
+  float: left;
+  padding: 8px;
+}
+
+#section02 ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+}
+
+#section02 ul li {
+  width: calc(100% / 4 - 10px / 4);
+  padding: 6px 0;
+}
+
+#section02 ul li span {
+  right: 20px;
+  bottom: 6px;
+}
